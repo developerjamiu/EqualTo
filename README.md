@@ -1,16 +1,13 @@
-# equalto
+# EqualTo
 
-A new Flutter project.
+A Voice Calculator
 
-## Getting Started
+## Screens from EqualTo
 
-This project is a starting point for a Flutter application.
+![Screenshot_20200827-130838](https://user-images.githubusercontent.com/50176100/91440579-b9383c00-e866-11ea-90d6-71963f7351a6.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20200827-130831](https://user-images.githubusercontent.com/50176100/91440607-c48b6780-e866-11ea-82fc-28d32c835886.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_20200827-130808](https://user-images.githubusercontent.com/50176100/91440620-c8b78500-e866-11ea-9238-67e7f1375dea.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20200827-130820](https://user-images.githubusercontent.com/50176100/91440650-d240ed00-e866-11ea-931a-4957f39b107b.png)
